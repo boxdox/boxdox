@@ -1,0 +1,35 @@
+name: Update Readme
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the repo
+        uses: actions/checkout@v2
+
+      - name: Setup Deno
+        uses: denolib/setup-deno@master
+
+      - name: Get current date for commit message
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+
+      - name: Generate new Readme
+        env:
+          WeatherAPIKey: ${{ secrets.WEATHER_API }}
+        run: deno run --allow-net --allow-env --allow-write index.ts
+
+      - name: Commit Files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -m "housekeeping bot: ${{ steps.date.outputs.date }} -a
+
+      - name: Push changes back to master
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
