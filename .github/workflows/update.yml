@@ -27,7 +27,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git commit -m "housekeeping bot: ${{ steps.date.outputs.date }} -a
+          git commit -m "bot update: ${{ steps.date.outputs.date }}" -a
 
       - name: Push changes back to master
         uses: ad-m/github-push-action@master
