@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">a guy who builds highly resourceful and scalable experiences.</h3>
 
-<p>currently living in hyderabad, india, learning and building useful tools (it's currently 82.45°F here).</p>
+<p>currently living in hyderabad, india, learning and building useful tools (it's currently 77.52°F here).</p>
 
 <p>i have graphql, typescript and rust on my bucket list.</p>
 
@@ -28,6 +28,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-mistakes don't make you less capable
+you are a capable human
 
-<p align="center"><sub><em>last updated: july 20, 2020. Updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: july 22, 2020. updates daily.</em></sub></p>
