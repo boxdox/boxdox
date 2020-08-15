@@ -28,6 +28,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-whenever we’re afraid, it’s because we don’t know enough. if we understood enough, we would never be afraid
+you're a smart cookie
 
-<p align="center"><sub><em>last updated: august 14, 2020. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: august 15, 2020. updates daily.</em></sub></p>
