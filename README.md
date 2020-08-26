@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">a guy who builds highly resourceful and scalable experiences.</h3>
 
-<p>currently living in hyderabad, india, learning and building useful tools (it's currently 73.72°F here).</p>
+<p>currently living in hyderabad, india, learning and building useful tools (it's currently 74.23°F here).</p>
 
 <p>i have graphql, typescript and rust on my bucket list.</p>
 
@@ -28,6 +28,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-it's not a mistake, it's a learning opportunity
+you can do it
 
-<p align="center"><sub><em>last updated: august 25, 2020. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: august 26, 2020. updates daily.</em></sub></p>
