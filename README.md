@@ -28,6 +28,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-if everything was easy you'd be bored
+you're resourceful and clever
 
-<p align="center"><sub><em>last updated: september 10, 2020. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: september 11, 2020. updates daily.</em></sub></p>
