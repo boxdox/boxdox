@@ -3,6 +3,7 @@ name: Update Readme
 on:
   schedule:
     - cron: "0 2 * * *"
+  workflow_dispatch:
 
 jobs:
   update-readme:
@@ -21,6 +22,7 @@ jobs:
       - name: Generate new Readme
         env:
           WeatherAPIKey: ${{ secrets.WEATHER_API }}
+          GithubToken: ${{ secrets.GITHUB_TOKEN }}
         run: deno run --allow-net --allow-env --allow-write index.ts
 
       - name: Commit Files

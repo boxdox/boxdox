@@ -6,7 +6,7 @@ const GITHUB_API_PROJECTS_LIST: string = 'https://api.github.com/projects/column
 const GITHUB_HEADERS = {
   headers: {
     Accept: 'application/vnd.github.inertia-preview+json',
-    Authorization: `token ${Deno.env.toObject()['GithubAPI']}`,
+    Authorization: `token ${Deno.env.toObject()['GithubToken']}`,
   },
 }
 
