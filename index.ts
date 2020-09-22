@@ -1,20 +1,20 @@
-import { affirmationData, weatherData } from "./src/fetchStuff.ts";
-import { temperatureConverter, updatedDate } from "./src/helpers.ts";
+import { affirmationData, weatherData } from './src/fetchStuff.ts'
+import { temperatureConverter, updatedDate } from './src/helpers.ts'
+import { learningList, projectsList } from './src/githubKanban.ts'
 
 // Begin generating the readme
 const readme = `
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">a guy who builds highly resourceful and scalable experiences.</h3>
 
-<p>currently living in hyderabad, india, learning and building useful tools (it's currently ${
-  temperatureConverter(weatherData.main.temp)
-}°F here).</p>
+<p>currently living in hyderabad, india, learning and building useful tools (it's currently ${temperatureConverter(
+  weatherData.main.temp
+)}°F here).</p>
 
-<p>i have graphql, typescript and rust on my bucket list.</p>
+<p>i have ${learningList} on my bucket list.</p>
 
 ### i am working on:
-- [code radio [wip]](https://github.com/boxdox/code-radio)
-- a template for authentication with graphql backend
+${projectsList.map(item => `- ${item}`).join('\n')}
 
 ### every (once in a while), i write some blog posts at:
 - [vaibhavkandwal.com/blog](https://vaibhavkandwal.com/blog/)
@@ -38,6 +38,6 @@ const readme = `
 ${affirmationData.affirmation.toLowerCase()}
 
 <p align="center"><sub><em>last updated: ${updatedDate()}. updates daily.</em></sub></p>
-`;
+`
 
-Deno.writeTextFile("README.md", readme.trim());
+Deno.writeTextFile('README.md', readme.trim())

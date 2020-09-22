@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">a guy who builds highly resourceful and scalable experiences.</h3>
 
-<p>currently living in hyderabad, india, learning and building useful tools (it's currently 74.57°F here).</p>
+<p>currently living in hyderabad, india, learning and building useful tools (it's currently
+
+°F here).</p>
 
 <p>i have graphql, typescript and rust on my bucket list.</p>
 
 ### i am working on:
-- [code radio [wip]](https://github.com/boxdox/code-radio)
 - a template for authentication with graphql backend
+- [code-radio [wip]](https://github.com/boxdox/code-radio)
 
 ### every (once in a while), i write some blog posts at:
 - [vaibhavkandwal.com/blog](https://vaibhavkandwal.com/blog/)
@@ -28,6 +30,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you'll find a way
+don't forget to enjoy the journey
 
-<p align="center"><sub><em>last updated: september 22, 2020. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: september 23, 2020. updates daily.</em></sub></p>
