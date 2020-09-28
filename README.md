@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">a guy who builds highly resourceful and scalable experiences.</h3>
 
-<p>currently living in hyderabad, india, learning and building useful tools (it's currently 72.66°F here).</p>
+<p>currently living in hyderabad, india, learning and building useful tools (it's currently 71.80°F here).</p>
 
 <p>i have graphql, typescript, rust and flutter on my bucket list.</p>
 
@@ -28,6 +28,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-10x engineers are a myth
+it’s what you practice in private that you will be rewarded for in public
 
-<p align="center"><sub><em>last updated: september 27, 2020. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: september 28, 2020. updates daily.</em></sub></p>
