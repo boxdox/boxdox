@@ -28,6 +28,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-mistakes don't make you less capable
+your life is already a miracle of chance waiting for you to shape its destiny
 
-<p align="center"><sub><em>last updated: september 29, 2020. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: september 30, 2020. updates daily.</em></sub></p>
