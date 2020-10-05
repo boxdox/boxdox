@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">a guy who builds highly resourceful and scalable experiences.</h3>
 
-<p>currently living in hyderabad, india, learning and building useful tools (it's currently 73.40°F here).</p>
+<p>currently living in hyderabad, india, learning and building useful tools (it's currently 72.73°F here).</p>
 
 <p>i have graphql, typescript, rust and flutter on my bucket list.</p>
 
@@ -28,6 +28,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you're an inspiration
+i believe in you
 
-<p align="center"><sub><em>last updated: october 4, 2020. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: october 5, 2020. updates daily.</em></sub></p>
