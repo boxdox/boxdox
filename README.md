@@ -28,6 +28,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-it'll feel magical when it's working
+it’s what you practice in private that you will be rewarded for in public
 
-<p align="center"><sub><em>last updated: october 14, 2020. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: october 15, 2020. updates daily.</em></sub></p>
