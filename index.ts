@@ -17,7 +17,7 @@ const readme = `
 ${projectsList.map(item => `- ${item}`).join('\n')}
 
 ### every (once in a while), i write some blog posts at:
-- [vaibhavkandwal.com/blog](https://vaibhavkandwal.com/blog/)
+- [boxdox.dev/blog](https://boxdox.dev/blog/)
 - [freecodecamp](https://www.freecodecamp.org/news/author/boxdox/)
 - [medium](https://medium.com/@vaibhavkandwal)
 
