@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">a guy who builds highly resourceful and scalable experiences.</h3>
 
-<p>currently living in hyderabad, india, learning and building useful tools (it's currently 69.39°F here).</p>
+<p>currently living in hyderabad, india, learning and building useful tools (it's currently 67.69°F here).</p>
 
 <p>i have angular (kill me, now), graphql, typescript, rust and flutter on my bucket list.</p>
 
@@ -28,6 +28,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-i admire you for taking this on
+failure is just another way to learn how to do something right
 
-<p align="center"><sub><em>last updated: november 29, 2020. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: november 30, 2020. updates daily.</em></sub></p>
