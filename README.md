@@ -28,6 +28,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you're doing a great job
+you are a capable human
 
-<p align="center"><sub><em>last updated: december 19, 2020. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: december 20, 2020. updates daily.</em></sub></p>
