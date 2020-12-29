@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">a guy who builds highly resourceful and scalable experiences.</h3>
 
-<p>currently living in hyderabad, india, learning and building useful tools (it's currently 57.60°F here).</p>
+<p>currently living in hyderabad, india, learning and building useful tools (it's currently 61.09°F here).</p>
 
 <p>i have graphql, typescript, rust and flutter on my bucket list.</p>
 
@@ -28,6 +28,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-small progress is still progress
+you know more than you knew yesterday
 
-<p align="center"><sub><em>last updated: december 28, 2020. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: december 29, 2020. updates daily.</em></sub></p>
