@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">a guy who builds highly resourceful and scalable experiences.</h3>
 
-<p>currently living in hyderabad, india, learning and building useful tools (it's currently 61.09°F here).</p>
+<p>currently living in hyderabad, india, learning and building useful tools (it's currently 67.80°F here).</p>
 
 <p>i have graphql, typescript, rust and flutter on my bucket list.</p>
 
@@ -18,6 +18,11 @@
 - [twitter](https://twitter.com/vaibhav_kandwal)
 - [linkedin](https://www.linkedin.com/in/vaibhavkandwal/)
 
+### if you want to support me:
+<a href="https://www.buymeacoffee.com/boxdox" target="_blank" rel="noopener noreferrer">
+  <img src="assets/buy-coffee.png" width="200" alt="buy me a coffee" />
+</a>
+
 ### if you're looking to hire me:
 - [my résumé](https://github.com/boxdox/resume/releases/latest/download/resume.pdf)
 
@@ -28,6 +33,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you know more than you knew yesterday
+the path to success is to take massive, determined action
 
 <p align="center"><sub><em>last updated: december 29, 2020. updates daily.</em></sub></p>
