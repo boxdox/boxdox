@@ -25,6 +25,11 @@ ${projectsList.map(item => `- ${item}`).join('\n')}
 - [twitter](https://twitter.com/vaibhav_kandwal)
 - [linkedin](https://www.linkedin.com/in/vaibhavkandwal/)
 
+### if you want to support me:
+<a href="https://www.buymeacoffee.com/boxdox" target="_blank" rel="noopener noreferrer">
+  <img src="assets/buy-coffee.png" width="200" alt="buy me a coffee" />
+</a>
+
 ### if you're looking to hire me:
 - [my résumé](https://github.com/boxdox/resume/releases/latest/download/resume.pdf)
 
