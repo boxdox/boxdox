@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">a guy who builds highly resourceful and scalable experiences.</h3>
 
-<p>currently living in hyderabad, india, learning and building useful tools (it's currently 64.92°F here).</p>
+<p>currently living in hyderabad, india, learning and building useful tools (it's currently 65.23°F here).</p>
 
 <p>i have graphql, typescript, rust and flutter on my bucket list.</p>
 
@@ -33,6 +33,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-the path to success is to take massive, determined action
+don't worry if you find flaws in your past creations, it's because you've evolved
 
-<p align="center"><sub><em>last updated: december 31, 2020. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: undefined 1, 2021. updates daily.</em></sub></p>
