@@ -5,7 +5,7 @@ import { learningList, projectsList } from './src/githubKanban.ts'
 // Begin generating the readme
 const readme = `
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
-<h3 align="center">a guy who builds highly resourceful and scalable experiences.</h3>
+<h3 align="center">a guy who builds highly resourceful, performant and scalable experiences.</h3>
 
 <p>currently living in hyderabad, india, learning and building useful tools (it's currently ${temperatureConverter(
   weatherData.main.temp
