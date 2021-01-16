@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">a guy who builds highly resourceful, performant and scalable experiences.</h3>
 
-<p>currently living in hyderabad, india, learning and building useful tools (it's currently 66.45°F here).</p>
+<p>currently living in hyderabad, india, learning and building useful tools (it's currently 67.32°F here).</p>
 
 <p>i have graphql, typescript, rust and flutter on my bucket list.</p>
 
@@ -33,6 +33,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-struggling is part of learning
+i believe in you
 
-<p align="center"><sub><em>last updated: undefined 15, 2021. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: undefined 16, 2021. updates daily.</em></sub></p>
