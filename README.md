@@ -33,6 +33,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-i believe in you
+you're an inspiration
 
-<p align="center"><sub><em>last updated: undefined 16, 2021. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: undefined 17, 2021. updates daily.</em></sub></p>
