@@ -9,6 +9,7 @@ export const updatedDate = (): string => {
     "february",
     "march",
     "april",
+    "may",
     "june",
     "july",
     "august",
@@ -19,7 +20,7 @@ export const updatedDate = (): string => {
   ];
 
   const day: number = today.getDate();
-  const month: number = today.getMonth() - 1;
+  const month: number = today.getMonth();
   const year: number = today.getFullYear();
 
   return `${monthArr[month]} ${day}, ${year}`;
