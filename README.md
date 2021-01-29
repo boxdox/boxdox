@@ -33,6 +33,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-all you need is the plan, the roadmap, and the courage to press on to your destination
+your life is already a miracle of chance waiting for you to shape its destiny
 
-<p align="center"><sub><em>last updated: january 28, 2021. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: january 29, 2021. updates daily.</em></sub></p>
