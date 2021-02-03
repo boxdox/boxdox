@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">a guy who builds highly resourceful, performant and scalable experiences.</h3>
 
-<p>currently living in hyderabad, india, learning and building useful tools (it's currently 62.56°F here).</p>
+<p>currently living in hyderabad, india, learning and building useful tools (it's currently 62.73°F here).</p>
 
 <p>i have graphql, typescript, rust and flutter on my bucket list.</p>
 
@@ -33,6 +33,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-don't worry if you find flaws in your past creations, it's because you've evolved
+all you need is the plan, the roadmap, and the courage to press on to your destination
 
-<p align="center"><sub><em>last updated: february 2, 2021. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: february 3, 2021. updates daily.</em></sub></p>
