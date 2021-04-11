@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">a guy who builds highly resourceful, performant and scalable experiences.</h3>
 
-<p>currently living in hyderabad, india, learning and building useful tools (it's currently 77.99°F here).</p>
+<p>currently living in hyderabad, india, learning and building useful tools (it's currently 74.46°F here).</p>
 
 <p>i have graphql, three.js, rust and flutter on my bucket list.</p>
 
@@ -33,6 +33,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-whenever we’re afraid, it’s because we don’t know enough. if we understood enough, we would never be afraid
+sucking at something is the first step towards being good at something
 
-<p align="center"><sub><em>last updated: april 10, 2021. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: april 11, 2021. updates daily.</em></sub></p>
