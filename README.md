@@ -33,6 +33,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-don't worry if you find flaws in your past creations, it's because you've evolved
+you can do it
 
-<p align="center"><sub><em>last updated: april 26, 2021. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: april 27, 2021. updates daily.</em></sub></p>
