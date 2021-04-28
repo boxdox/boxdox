@@ -33,6 +33,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you can do it
+nothing is impossible. the word itself says 'i’m possible!'
 
-<p align="center"><sub><em>last updated: april 27, 2021. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: april 28, 2021. updates daily.</em></sub></p>
