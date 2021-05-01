@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">a guy who builds highly resourceful, performant and scalable experiences.</h3>
 
-<p>currently living in hyderabad, india, learning and building useful tools (it's currently 82.40°F here).</p>
+<p>currently living in hyderabad, india, learning and building useful tools (it's currently 84.47°F here).</p>
 
 <p>i have graphql, three.js, rust and flutter on my bucket list.</p>
 
@@ -33,6 +33,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you're a smart cookie
+you are a capable human
 
-<p align="center"><sub><em>last updated: april 30, 2021. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: may 1, 2021. updates daily.</em></sub></p>
