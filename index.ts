@@ -40,7 +40,7 @@ ${projectsList.map(item => `- ${item}`).join('\n')}
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=boxdox&color=red&style=flat-square&label=PROFILE+VIEWS">
+  <img src="https://komarev.com/ghpvc/?username=boxdox&color=ff6e96&style=flat-square&label=PROFILE+VIEWS">
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
