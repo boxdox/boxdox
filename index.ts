@@ -36,7 +36,11 @@ ${projectsList.map(item => `- ${item}`).join('\n')}
 ### here's my report card:
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=boxdox&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=boxdox&show_icons=true&count_private=true&theme=dracula" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=boxdox&color=red&style=flat-square&label=PROFILE+VIEWS">
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
