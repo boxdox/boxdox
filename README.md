@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">a guy who builds highly resourceful, performant and scalable experiences.</h3>
 
-<p>currently living in hyderabad, india, learning and building useful tools (it's currently 80.29°F here).</p>
+<p>currently living in hyderabad, india, learning and building useful tools (it's currently 78.91°F here).</p>
 
 <p>i have graphql, three.js, rust and flutter on my bucket list.</p>
 
@@ -29,10 +29,14 @@
 ### here's my report card:
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=boxdox&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=boxdox&show_icons=true&count_private=true&theme=dracula" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=boxdox&color=red&style=flat-square&label=PROFILE+VIEWS">
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you'll figure it out
+i know you'll sort it out
 
 <p align="center"><sub><em>last updated: may 16, 2021. updates daily.</em></sub></p>
