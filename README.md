@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">a guy who builds highly resourceful, performant and scalable experiences.</h3>
 
-<p>currently living in hyderabad, india, learning and building useful tools (it's currently 87.17°F here).</p>
+<p>currently living in hyderabad, india, learning and building useful tools (it's currently 89.17°F here).</p>
 
 <p>i have graphql, three.js, rust and flutter on my bucket list.</p>
 
@@ -37,6 +37,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you know more than you knew yesterday
+i give myself permission to do what is right for me
 
-<p align="center"><sub><em>last updated: may 30, 2021. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: may 31, 2021. updates daily.</em></sub></p>
