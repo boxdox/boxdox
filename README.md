@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">a guy who builds highly resourceful, performant and scalable experiences.</h3>
 
-<p>currently living in hyderabad, india, learning and building useful tools (it's currently 84.67°F here).</p>
+<p>currently living in hyderabad, india, learning and building useful tools (it's currently 75.67°F here).</p>
 
-<p>i have graphql, three.js, rust and flutter on my bucket list.</p>
+<p>i have jest, three.js, rust and flutter on my bucket list.</p>
 
 ### i am working on:
-- a template for authentication with graphql backend
+- elementary-os web ui clone
 - [code-radio [wip]](https://github.com/boxdox/code-radio)
 
 ### every (once in a while), i write some blog posts at:
@@ -37,6 +37,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you are a capable human
+success is the progressive realization of a worthy goal
 
-<p align="center"><sub><em>last updated: june 2, 2021. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: june 3, 2021. updates daily.</em></sub></p>
