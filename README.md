@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">a guy who builds highly resourceful, performant and scalable experiences.</h3>
 
-<p>currently living in hyderabad, india, learning and building useful tools (it's currently 77.16°F here).</p>
+<p>currently living in hyderabad, india, learning and building useful tools (it's currently 76.17°F here).</p>
 
 <p>i have jest, three.js, rust and flutter on my bucket list.</p>
 
@@ -37,6 +37,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-starting is the most difficult step - but you can do it
+success is the progressive realization of a worthy goal
 
-<p align="center"><sub><em>last updated: june 18, 2021. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: june 19, 2021. updates daily.</em></sub></p>
