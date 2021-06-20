@@ -37,6 +37,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-success is the progressive realization of a worthy goal
+struggling means you're learning
 
-<p align="center"><sub><em>last updated: june 19, 2021. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: june 20, 2021. updates daily.</em></sub></p>
