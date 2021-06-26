@@ -37,6 +37,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-mistakes don't make you less capable
+sucking at something is the first step towards being good at something
 
-<p align="center"><sub><em>last updated: june 25, 2021. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: june 26, 2021. updates daily.</em></sub></p>
