@@ -37,6 +37,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-nothing is impossible. the word itself says 'i’m possible!'
+you're resourceful and clever
 
-<p align="center"><sub><em>last updated: july 10, 2021. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: july 11, 2021. updates daily.</em></sub></p>
