@@ -37,6 +37,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you're resourceful and clever
+you are worthy and deserving of respect
 
-<p align="center"><sub><em>last updated: july 11, 2021. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: july 12, 2021. updates daily.</em></sub></p>
