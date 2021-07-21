@@ -37,6 +37,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-don't worry if you find flaws in your past creations, it's because you've evolved
+struggling is part of learning
 
-<p align="center"><sub><em>last updated: july 20, 2021. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: july 21, 2021. updates daily.</em></sub></p>
