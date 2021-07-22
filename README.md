@@ -37,6 +37,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-struggling is part of learning
+you are learning valuable lessons from yourself every day
 
-<p align="center"><sub><em>last updated: july 21, 2021. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: july 22, 2021. updates daily.</em></sub></p>
