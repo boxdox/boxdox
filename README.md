@@ -37,6 +37,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you are learning valuable lessons from yourself every day
+the past does not equal the future
 
-<p align="center"><sub><em>last updated: july 22, 2021. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: july 23, 2021. updates daily.</em></sub></p>
