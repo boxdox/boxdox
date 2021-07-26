@@ -37,6 +37,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-everything has cracks - that's how the light gets in
+if everything was easy you'd be bored
 
-<p align="center"><sub><em>last updated: july 25, 2021. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: july 26, 2021. updates daily.</em></sub></p>
