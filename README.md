@@ -37,6 +37,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-your life is already a miracle of chance waiting for you to shape its destiny
+you're an inspiration
 
-<p align="center"><sub><em>last updated: august 7, 2021. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: august 8, 2021. updates daily.</em></sub></p>
