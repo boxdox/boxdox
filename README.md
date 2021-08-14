@@ -37,6 +37,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you make a difference in the world by simply existing in it
+i know you'll sort it out
 
-<p align="center"><sub><em>last updated: august 13, 2021. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: august 14, 2021. updates daily.</em></sub></p>
