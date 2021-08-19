@@ -37,6 +37,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-struggling is part of learning
+success is the progressive realization of a worthy goal
 
-<p align="center"><sub><em>last updated: august 18, 2021. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: august 19, 2021. updates daily.</em></sub></p>
