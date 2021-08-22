@@ -37,6 +37,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-if everything was easy you'd be bored
+the past does not equal the future
 
-<p align="center"><sub><em>last updated: august 21, 2021. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: august 22, 2021. updates daily.</em></sub></p>
