@@ -37,6 +37,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you're a smart cookie
+it'll feel magical when it's working
 
-<p align="center"><sub><em>last updated: august 23, 2021. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: august 24, 2021. updates daily.</em></sub></p>
