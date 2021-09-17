@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">a guy who builds highly resourceful, performant and scalable experiences.</h3>
 
-<p>currently living in hyderabad, india, learning and building useful tools (it's currently 74.71°F here).</p>
+<p>currently living in hyderabad, india, learning and building useful tools (it's currently 81.01°F here).</p>
 
-<p>i have jest, three.js, rust and flutter on my bucket list.</p>
+<p>i have advanced react, rust and three.js on my bucket list.</p>
 
 ### i am working on:
-- elementary-os web ui clone
-- [code-radio [wip]](https://github.com/boxdox/code-radio)
+- kindle clippings sync - a cross-platform app to sync kindle clippings with notion
 
 ### every (once in a while), i write some blog posts at:
 - [boxdox.dev/blog](https://boxdox.dev/blog/)
@@ -37,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-your life is about to be incredible
+struggling means you're learning
 
 <p align="center"><sub><em>last updated: september 17, 2021. updates daily.</em></sub></p>
