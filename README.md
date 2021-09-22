@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-starting is the most difficult step - but you can do it
+failure is just another way to learn how to do something right
 
-<p align="center"><sub><em>last updated: september 21, 2021. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: september 22, 2021. updates daily.</em></sub></p>
