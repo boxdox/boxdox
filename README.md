@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-failure is just another way to learn how to do something right
+you make a difference in the world by simply existing in it
 
-<p align="center"><sub><em>last updated: september 22, 2021. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: september 23, 2021. updates daily.</em></sub></p>
