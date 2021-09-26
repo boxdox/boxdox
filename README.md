@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-everything has cracks - that's how the light gets in
+small progress is still progress
 
-<p align="center"><sub><em>last updated: september 25, 2021. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: september 26, 2021. updates daily.</em></sub></p>
