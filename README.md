@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-failure is just another way to learn how to do something right
+people with goals succeed because they know where they’re going
 
-<p align="center"><sub><em>last updated: october 3, 2021. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: october 4, 2021. updates daily.</em></sub></p>
