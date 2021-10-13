@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-sucking at something is the first step towards being good at something
+if everything was easy you'd be bored
 
-<p align="center"><sub><em>last updated: october 12, 2021. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: october 13, 2021. updates daily.</em></sub></p>
