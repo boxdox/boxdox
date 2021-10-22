@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you're an inspiration
+i admire you for taking this on
 
-<p align="center"><sub><em>last updated: october 21, 2021. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: october 22, 2021. updates daily.</em></sub></p>
