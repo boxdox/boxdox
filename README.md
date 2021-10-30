@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">a guy who builds highly resourceful, performant and scalable experiences.</h3>
 
-<p>currently living in hyderabad, india, learning and building useful tools (it's currently 72.91°F here).</p>
+<p>currently living in hyderabad, india, learning and building useful tools (it's currently 76.51°F here).</p>
 
 <p>i have advanced react, rust and three.js on my bucket list.</p>
 
@@ -38,4 +38,4 @@
 ### now since you made it this far, here's an affirmation of the day:
 mistakes don't make you less capable
 
-<p align="center"><sub><em>last updated: october 29, 2021. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: october 30, 2021. updates daily.</em></sub></p>
