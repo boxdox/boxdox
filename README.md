@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you're resourceful and clever
+whenever we’re afraid, it’s because we don’t know enough. if we understood enough, we would never be afraid
 
-<p align="center"><sub><em>last updated: november 4, 2021. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: november 5, 2021. updates daily.</em></sub></p>
