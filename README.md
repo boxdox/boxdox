@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">a guy who builds highly resourceful, performant and scalable experiences.</h3>
 
-<p>currently living in hyderabad, india, learning and building useful tools (it's currently 72.91°F here).</p>
+<p>currently living in hyderabad, india, learning and building useful tools (it's currently 70.21°F here).</p>
 
 <p>i have advanced react, rust and three.js on my bucket list.</p>
 
@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-whenever we’re afraid, it’s because we don’t know enough. if we understood enough, we would never be afraid
+you'll figure it out
 
-<p align="center"><sub><em>last updated: november 5, 2021. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: november 6, 2021. updates daily.</em></sub></p>
