@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-nothing is impossible. the word itself says 'i’m possible!'
+you make a difference in the world by simply existing in it
 
-<p align="center"><sub><em>last updated: november 13, 2021. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: november 14, 2021. updates daily.</em></sub></p>
