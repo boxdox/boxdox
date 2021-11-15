@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you make a difference in the world by simply existing in it
+i give myself permission to do what is right for me
 
-<p align="center"><sub><em>last updated: november 14, 2021. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: november 15, 2021. updates daily.</em></sub></p>
