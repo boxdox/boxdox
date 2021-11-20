@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-it is not a sprint, it is a marathon. one step at a time
+you're doing a great job
 
-<p align="center"><sub><em>last updated: november 19, 2021. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: november 20, 2021. updates daily.</em></sub></p>
