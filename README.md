@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you're doing a great job
+it’s what you practice in private that you will be rewarded for in public
 
-<p align="center"><sub><em>last updated: november 20, 2021. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: november 21, 2021. updates daily.</em></sub></p>
