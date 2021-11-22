@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-it’s what you practice in private that you will be rewarded for in public
+you'll find a way
 
-<p align="center"><sub><em>last updated: november 21, 2021. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: november 22, 2021. updates daily.</em></sub></p>
