@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-failure is just another way to learn how to do something right
+it is not a sprint, it is a marathon. one step at a time
 
-<p align="center"><sub><em>last updated: november 23, 2021. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: november 24, 2021. updates daily.</em></sub></p>
