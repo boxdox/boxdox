@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you're a smart cookie
+you can do it
 
-<p align="center"><sub><em>last updated: november 26, 2021. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: november 27, 2021. updates daily.</em></sub></p>
