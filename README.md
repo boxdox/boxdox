@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-starting is the most difficult step - but you can do it
+your mind is full of brilliant ideas
 
-<p align="center"><sub><em>last updated: december 1, 2021. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: december 2, 2021. updates daily.</em></sub></p>
