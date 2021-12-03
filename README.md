@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-your mind is full of brilliant ideas
+your life is already a miracle of chance waiting for you to shape its destiny
 
-<p align="center"><sub><em>last updated: december 2, 2021. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: december 3, 2021. updates daily.</em></sub></p>
