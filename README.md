@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-don't forget to enjoy the journey
+you can do it
 
-<p align="center"><sub><em>last updated: december 9, 2021. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: december 10, 2021. updates daily.</em></sub></p>
