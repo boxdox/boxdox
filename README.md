@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-don't worry if you find flaws in your past creations, it's because you've evolved
+the opposite of courage in our society is not cowardice... it is conformity
 
-<p align="center"><sub><em>last updated: december 12, 2021. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: december 13, 2021. updates daily.</em></sub></p>
