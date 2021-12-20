@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-it is not a sprint, it is a marathon. one step at a time
+sucking at something is the first step towards being good at something
 
-<p align="center"><sub><em>last updated: december 19, 2021. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: december 20, 2021. updates daily.</em></sub></p>
