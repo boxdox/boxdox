@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-i admire you for taking this on
+it's not a mistake, it's a learning opportunity
 
-<p align="center"><sub><em>last updated: december 21, 2021. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: december 22, 2021. updates daily.</em></sub></p>
