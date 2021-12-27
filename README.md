@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you are a capable human
+failure is just another way to learn how to do something right
 
-<p align="center"><sub><em>last updated: december 26, 2021. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: december 27, 2021. updates daily.</em></sub></p>
