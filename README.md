@@ -38,4 +38,4 @@
 ### now since you made it this far, here's an affirmation of the day:
 failure is just another way to learn how to do something right
 
-<p align="center"><sub><em>last updated: december 27, 2021. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: december 28, 2021. updates daily.</em></sub></p>
