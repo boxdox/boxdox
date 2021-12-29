@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-failure is just another way to learn how to do something right
+you are worthy and deserving of respect
 
-<p align="center"><sub><em>last updated: december 28, 2021. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: december 29, 2021. updates daily.</em></sub></p>
