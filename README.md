@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-it'll feel magical when it's working
+you are a capable human
 
-<p align="center"><sub><em>last updated: december 31, 2021. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: january 1, 2022. updates daily.</em></sub></p>
