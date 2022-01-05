@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">a guy who builds highly resourceful, performant and scalable experiences.</h3>
 
-<p>currently living in hyderabad, india, learning and building useful tools (it's currently 57.61°F here).</p>
+<p>currently living in hyderabad, india, learning and building useful tools (it's currently 61.21°F here).</p>
 
 <p>i have advanced react, rust and three.js on my bucket list.</p>
 
@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you're an inspiration
+starting is the most difficult step - but you can do it
 
-<p align="center"><sub><em>last updated: january 4, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: january 5, 2022. updates daily.</em></sub></p>
