@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-i'm rooting for you
+struggling is part of learning
 
-<p align="center"><sub><em>last updated: january 6, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: january 7, 2022. updates daily.</em></sub></p>
