@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-nothing is impossible. the word itself says 'i’m possible!'
+the path to success is to take massive, determined action
 
-<p align="center"><sub><em>last updated: january 8, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: january 9, 2022. updates daily.</em></sub></p>
