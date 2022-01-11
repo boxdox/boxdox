@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-i believe in you
+it'll feel magical when it's working
 
-<p align="center"><sub><em>last updated: january 10, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: january 11, 2022. updates daily.</em></sub></p>
