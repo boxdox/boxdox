@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">a guy who builds highly resourceful, performant and scalable experiences.</h3>
 
-<p>currently living in hyderabad, india, learning and building useful tools (it's currently 66.61°F here).</p>
+<p>currently living in hyderabad, india, learning and building useful tools (it's currently 72.01°F here).</p>
 
-<p>i have advanced react, rust and three.js on my bucket list.</p>
+<p>i have remix.run, advanced react, rust and three.js on my bucket list.</p>
 
 ### i am working on:
 - kindle clippings sync - a cross-platform app to sync kindle clippings with notion
@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-it'll feel magical when it's working
+whenever we’re afraid, it’s because we don’t know enough. if we understood enough, we would never be afraid
 
-<p align="center"><sub><em>last updated: january 11, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: january 12, 2022. updates daily.</em></sub></p>
