@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-it is not a sprint, it is a marathon. one step at a time
+the path to success is to take massive, determined action
 
-<p align="center"><sub><em>last updated: january 13, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: january 14, 2022. updates daily.</em></sub></p>
