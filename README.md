@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-don't worry if you find flaws in your past creations, it's because you've evolved
+you'll figure it out
 
-<p align="center"><sub><em>last updated: january 26, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: january 27, 2022. updates daily.</em></sub></p>
