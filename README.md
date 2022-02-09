@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you are learning valuable lessons from yourself every day
+i know you'll sort it out
 
-<p align="center"><sub><em>last updated: february 8, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: february 9, 2022. updates daily.</em></sub></p>
