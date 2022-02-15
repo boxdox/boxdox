@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">a guy who builds highly resourceful, performant and scalable experiences.</h3>
 
-<p>currently living in hyderabad, india, learning and building useful tools (it's currently 59.41°F here).</p>
+<p>currently living in hyderabad, india, learning and building useful tools (it's currently 64.81°F here).</p>
 
 <p>i have remix.run, advanced react, rust and three.js on my bucket list.</p>
 
@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-all you need is the plan, the roadmap, and the courage to press on to your destination
+don't forget to enjoy the journey
 
-<p align="center"><sub><em>last updated: february 14, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: february 15, 2022. updates daily.</em></sub></p>
