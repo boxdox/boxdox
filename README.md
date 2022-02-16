@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-don't forget to enjoy the journey
+you are learning valuable lessons from yourself every day
 
-<p align="center"><sub><em>last updated: february 15, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: february 16, 2022. updates daily.</em></sub></p>
