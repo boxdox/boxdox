@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-i admire you for taking this on
+you know more than you knew yesterday
 
-<p align="center"><sub><em>last updated: march 11, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: march 12, 2022. updates daily.</em></sub></p>
