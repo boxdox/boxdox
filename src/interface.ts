@@ -1,8 +1,4 @@
-export interface AffirmationResponse {
-  affirmation: string
-}
-
-export interface openWeatherResponse {
+export interface IOpenWeatherResponse {
   coord: {
     lon: number
     lat: number
@@ -44,7 +40,7 @@ export interface openWeatherResponse {
   cod: number
 }
 
-export interface githubCards {
+export interface IGithubCard {
   url: string
   project_url: string
   id: number
