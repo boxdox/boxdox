@@ -1,22 +1,29 @@
-import { AffirmationResponse, openWeatherResponse } from './interface.ts'
+import { getRandomAffirmation } from './affirmations.ts'
+import { fetcher, temperatureConverter, updatedDate } from './helpers.ts'
+import {
+  GITHUB_API_LEARNING_LIST,
+  GITHUB_API_PROJECTS_LIST,
+  GITHUB_HEADERS,
+  WEATHER_API,
+} from './constants.ts'
+import type { IGithubCard, IOpenWeatherResponse } from './interface.ts'
 
-const fetcher = async (url: string, headers: RequestInit = {}) => {
-  try {
-    const req = await fetch(url, headers)
-    const data = await req.json()
-    return data
-  } catch (error) {
-    console.log(error)
-    throw new Error('Fetch failed')
-  }
-}
+// affirmation
+export const affirmation = getRandomAffirmation()
 
-const AFFIRMATION_API: string = 'https://www.affirmations.dev/'
-const WEATHER_API: string = `https://api.openweathermap.org/data/2.5/weather?id=1269843&appid=${
-  Deno.env.toObject()['WeatherAPIKey']
-}`
+// weather
+const weatherData = await fetcher<IOpenWeatherResponse>(WEATHER_API)
+export const temperature = temperatureConverter(weatherData.main.temp)
 
-const affirmationData: AffirmationResponse = await fetcher(AFFIRMATION_API)
-const weatherData: openWeatherResponse = await fetcher(WEATHER_API)
+// github api
+const learningData = await fetcher<IGithubCard[]>(GITHUB_API_LEARNING_LIST, GITHUB_HEADERS)
+const projectsData = await fetcher<IGithubCard[]>(GITHUB_API_PROJECTS_LIST, GITHUB_HEADERS)
 
-export { fetcher, affirmationData, weatherData }
+// Join the list of items as `a, b, c and d`
+export const learningList = learningData
+  .map(({ note }) => note)
+  .reduce((a, b, i, arr) => (i <= arr.length - 2 ? `${a}, ${b}` : `${a} and ${b}`))
+
+export const projectsList = projectsData.map(({ note }) => `- ${note}`).join('\n')
+
+export const today = updatedDate()

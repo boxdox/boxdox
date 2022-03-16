@@ -1,20 +1,16 @@
-import { affirmationData, weatherData } from './src/fetchStuff.ts'
-import { temperatureConverter, updatedDate } from './src/helpers.ts'
-import { learningList, projectsList } from './src/githubKanban.ts'
+import { temperature, affirmation, today, learningList, projectsList } from './src/fetchStuff.ts'
 
 // Begin generating the readme
 const readme = `
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">a guy who builds highly resourceful, performant and scalable experiences.</h3>
 
-<p>currently living in hyderabad, india, learning and building useful tools (it's currently ${temperatureConverter(
-  weatherData.main.temp
-)}°F here).</p>
+<p>currently living in hyderabad, india, learning and building useful tools (it's currently ${temperature}°F here).</p>
 
 <p>i have ${learningList} on my bucket list.</p>
 
 ### i am working on:
-${projectsList.map(item => `- ${item}`).join('\n')}
+${projectsList}
 
 ### every (once in a while), i write some blog posts at:
 - [boxdox.dev/blog](https://boxdox.dev/blog/)
@@ -44,9 +40,9 @@ ${projectsList.map(item => `- ${item}`).join('\n')}
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-${affirmationData.affirmation.toLowerCase()}
+${affirmation.toLowerCase()}
 
-<p align="center"><sub><em>last updated: ${updatedDate()}. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: ${today}. updates daily.</em></sub></p>
 `
 
 Deno.writeTextFile('README.md', readme.trim())
