@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-the opposite of courage in our society is not cowardice... it is conformity
+10x engineers are a myth
 
-<p align="center"><sub><em>last updated: march 25, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: march 26, 2022. updates daily.</em></sub></p>
