@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you can do it
+you're an inspiration
 
-<p align="center"><sub><em>last updated: march 30, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: march 31, 2022. updates daily.</em></sub></p>
