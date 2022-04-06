@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-the path to success is to take massive, determined action
+success is the progressive realization of a worthy goal
 
-<p align="center"><sub><em>last updated: april 5, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: april 6, 2022. updates daily.</em></sub></p>
