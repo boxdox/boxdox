@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-your life is about to be incredible
+i'm rooting for you
 
-<p align="center"><sub><em>last updated: april 10, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: april 11, 2022. updates daily.</em></sub></p>
