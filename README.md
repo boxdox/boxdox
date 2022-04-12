@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-i'm rooting for you
+the path to success is to take massive, determined action
 
-<p align="center"><sub><em>last updated: april 11, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: april 12, 2022. updates daily.</em></sub></p>
