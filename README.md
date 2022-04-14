@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-struggling means you're learning
+you got this
 
-<p align="center"><sub><em>last updated: april 13, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: april 14, 2022. updates daily.</em></sub></p>
