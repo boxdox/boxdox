@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you are learning valuable lessons from yourself every day
+10x engineers are a myth
 
-<p align="center"><sub><em>last updated: april 16, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: april 17, 2022. updates daily.</em></sub></p>
