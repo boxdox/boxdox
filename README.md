@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-10x engineers are a myth
+everything has cracks - that's how the light gets in
 
-<p align="center"><sub><em>last updated: april 17, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: april 18, 2022. updates daily.</em></sub></p>
