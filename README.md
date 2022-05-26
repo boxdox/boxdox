@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-if everything was easy you'd be bored
+you're a smart cookie
 
-<p align="center"><sub><em>last updated: may 25, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: may 26, 2022. updates daily.</em></sub></p>
