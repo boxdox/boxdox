@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you know more than you think
+if everything was easy you'd be bored
 
-<p align="center"><sub><em>last updated: june 7, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: june 8, 2022. updates daily.</em></sub></p>
