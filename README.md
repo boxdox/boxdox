@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">a guy who builds highly resourceful, performant and scalable experiences.</h3>
 
-<p>currently living in hyderabad, india, learning and building useful tools (it's currently 73.81°F here).</p>
+<p>currently living in hyderabad, india, learning and building useful tools (it's currently 77.41°F here).</p>
 
 <p>i have remix.run, advanced react, rust and three.js on my bucket list.</p>
 
@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-failure is just another way to learn how to do something right
+the past does not equal the future
 
-<p align="center"><sub><em>last updated: june 15, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: june 16, 2022. updates daily.</em></sub></p>
