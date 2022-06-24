@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you're resourceful and clever
+don't worry if you find flaws in your past creations, it's because you've evolved
 
-<p align="center"><sub><em>last updated: june 23, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: june 24, 2022. updates daily.</em></sub></p>
