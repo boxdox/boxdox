@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you are learning valuable lessons from yourself every day
+i'm rooting for you
 
-<p align="center"><sub><em>last updated: june 25, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: june 26, 2022. updates daily.</em></sub></p>
