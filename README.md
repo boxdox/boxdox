@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-mistakes don't make you less capable
+don't worry if you find flaws in your past creations, it's because you've evolved
 
-<p align="center"><sub><em>last updated: june 28, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: june 29, 2022. updates daily.</em></sub></p>
