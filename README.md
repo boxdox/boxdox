@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-i know you'll sort it out
+starting is the most difficult step - but you can do it
 
-<p align="center"><sub><em>last updated: july 9, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: july 10, 2022. updates daily.</em></sub></p>
