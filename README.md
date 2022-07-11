@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-starting is the most difficult step - but you can do it
+you are a capable human
 
-<p align="center"><sub><em>last updated: july 10, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: july 11, 2022. updates daily.</em></sub></p>
