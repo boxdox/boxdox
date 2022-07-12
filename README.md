@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you are a capable human
+small progress is still progress
 
-<p align="center"><sub><em>last updated: july 11, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: july 12, 2022. updates daily.</em></sub></p>
