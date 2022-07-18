@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-we are all works in progress
+success is the progressive realization of a worthy goal
 
-<p align="center"><sub><em>last updated: july 17, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: july 18, 2022. updates daily.</em></sub></p>
