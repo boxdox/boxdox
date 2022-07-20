@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you make a difference in the world by simply existing in it
+struggling means you're learning
 
-<p align="center"><sub><em>last updated: july 19, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: july 20, 2022. updates daily.</em></sub></p>
