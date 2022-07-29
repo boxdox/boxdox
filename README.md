@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-nothing is impossible. the word itself says 'i'm possible!'
+people with goals succeed because they know where they're going
 
-<p align="center"><sub><em>last updated: july 28, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: july 29, 2022. updates daily.</em></sub></p>
