@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you know more than you knew yesterday
+you're doing a great job
 
-<p align="center"><sub><em>last updated: august 8, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: august 9, 2022. updates daily.</em></sub></p>
