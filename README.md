@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you're doing a great job
+your life is about to be incredible
 
-<p align="center"><sub><em>last updated: august 9, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: august 10, 2022. updates daily.</em></sub></p>
