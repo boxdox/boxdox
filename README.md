@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-mistakes don't make you less capable
+starting is the most difficult step - but you can do it
 
-<p align="center"><sub><em>last updated: august 21, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: august 22, 2022. updates daily.</em></sub></p>
