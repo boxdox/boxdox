@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-it's what you practice in private that you will be rewarded for in public
+you're resourceful and clever
 
-<p align="center"><sub><em>last updated: august 24, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: august 25, 2022. updates daily.</em></sub></p>
