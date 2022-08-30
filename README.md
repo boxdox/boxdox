@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you're doing a great job
+everything has cracks - that's how the light gets in
 
-<p align="center"><sub><em>last updated: august 29, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: august 30, 2022. updates daily.</em></sub></p>
