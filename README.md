@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you'll find a way
+the past does not equal the future
 
-<p align="center"><sub><em>last updated: september 9, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: september 10, 2022. updates daily.</em></sub></p>
