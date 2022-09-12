@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-don't forget to enjoy the journey
+you're a smart cookie
 
-<p align="center"><sub><em>last updated: september 11, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: september 12, 2022. updates daily.</em></sub></p>
