@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you got this
+your life is about to be incredible
 
-<p align="center"><sub><em>last updated: september 13, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: september 14, 2022. updates daily.</em></sub></p>
