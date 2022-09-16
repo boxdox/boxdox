@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-your life is about to be incredible
+success is the progressive realization of a worthy goal
 
-<p align="center"><sub><em>last updated: september 15, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: september 16, 2022. updates daily.</em></sub></p>
