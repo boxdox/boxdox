@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-success is the progressive realization of a worthy goal
+i give myself permission to do what is right for me
 
-<p align="center"><sub><em>last updated: september 16, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: september 17, 2022. updates daily.</em></sub></p>
