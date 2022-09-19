@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you can do it
+i give myself permission to do what is right for me
 
-<p align="center"><sub><em>last updated: september 18, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: september 19, 2022. updates daily.</em></sub></p>
