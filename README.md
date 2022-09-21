@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you know more than you think
+struggling means you're learning
 
-<p align="center"><sub><em>last updated: september 20, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: september 21, 2022. updates daily.</em></sub></p>
