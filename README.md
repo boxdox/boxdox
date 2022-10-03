@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-your life is about to be incredible
+mistakes don't make you less capable
 
-<p align="center"><sub><em>last updated: october 2, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: october 3, 2022. updates daily.</em></sub></p>
