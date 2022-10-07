@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-success is the progressive realization of a worthy goal
+it's not a mistake, it's a learning opportunity
 
-<p align="center"><sub><em>last updated: october 6, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: october 7, 2022. updates daily.</em></sub></p>
