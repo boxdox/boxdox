@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-don't worry if you find flaws in your past creations, it's because you've evolved
+it's what you practice in private that you will be rewarded for in public
 
-<p align="center"><sub><em>last updated: october 8, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: october 9, 2022. updates daily.</em></sub></p>
