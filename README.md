@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-whenever we're afraid, it's because we don't know enough. if we understood enough, we would never be afraid
+you're an inspiration
 
-<p align="center"><sub><em>last updated: october 13, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: october 14, 2022. updates daily.</em></sub></p>
