@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you're resourceful and clever
+you're a smart cookie
 
-<p align="center"><sub><em>last updated: october 15, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: october 16, 2022. updates daily.</em></sub></p>
