@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-it is not a sprint, it is a marathon. one step at a time
+the past does not equal the future
 
-<p align="center"><sub><em>last updated: november 4, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: november 5, 2022. updates daily.</em></sub></p>
