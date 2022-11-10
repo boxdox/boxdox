@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you got this
+we are all works in progress
 
-<p align="center"><sub><em>last updated: november 9, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: november 10, 2022. updates daily.</em></sub></p>
