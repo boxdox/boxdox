@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you're doing a great job
+mistakes don't make you less capable
 
-<p align="center"><sub><em>last updated: november 21, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: november 22, 2022. updates daily.</em></sub></p>
