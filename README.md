@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-mistakes don't make you less capable
+you are a capable human
 
-<p align="center"><sub><em>last updated: november 23, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: november 24, 2022. updates daily.</em></sub></p>
