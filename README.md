@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-it's not a mistake, it's a learning opportunity
+sucking at something is the first step towards being good at something
 
-<p align="center"><sub><em>last updated: november 26, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: november 27, 2022. updates daily.</em></sub></p>
