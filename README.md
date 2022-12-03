@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-your life is already a miracle of chance waiting for you to shape its destiny
+you know more than you knew yesterday
 
-<p align="center"><sub><em>last updated: december 2, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: december 3, 2022. updates daily.</em></sub></p>
