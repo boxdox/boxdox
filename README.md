@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you know more than you knew yesterday
+people with goals succeed because they know where they're going
 
-<p align="center"><sub><em>last updated: december 3, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: december 4, 2022. updates daily.</em></sub></p>
