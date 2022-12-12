@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-failure is just another way to learn how to do something right
+you're resourceful and clever
 
-<p align="center"><sub><em>last updated: december 11, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: december 12, 2022. updates daily.</em></sub></p>
