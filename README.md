@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-it'll feel magical when it's working
+all you need is the plan, the roadmap, and the courage to press on to your destination
 
-<p align="center"><sub><em>last updated: december 13, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: december 14, 2022. updates daily.</em></sub></p>
