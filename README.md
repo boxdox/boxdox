@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-i admire you for taking this on
+you'll find a way
 
-<p align="center"><sub><em>last updated: december 20, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: december 21, 2022. updates daily.</em></sub></p>
