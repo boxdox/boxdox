@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-your life is already a miracle of chance waiting for you to shape its destiny
+success is the progressive realization of a worthy goal
 
-<p align="center"><sub><em>last updated: december 26, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: december 27, 2022. updates daily.</em></sub></p>
