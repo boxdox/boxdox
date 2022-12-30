@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-small progress is still progress
+you're doing a great job
 
-<p align="center"><sub><em>last updated: december 29, 2022. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: december 30, 2022. updates daily.</em></sub></p>
