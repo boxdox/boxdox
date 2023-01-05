@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-it's what you practice in private that you will be rewarded for in public
+starting is the most difficult step - but you can do it
 
-<p align="center"><sub><em>last updated: january 4, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: january 5, 2023. updates daily.</em></sub></p>
