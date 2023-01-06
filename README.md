@@ -36,6 +36,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-starting is the most difficult step - but you can do it
+people with goals succeed because they know where they're going
 
-<p align="center"><sub><em>last updated: january 5, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: january 6, 2023. updates daily.</em></sub></p>
