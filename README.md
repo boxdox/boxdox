@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">a guy who builds highly resourceful, performant and scalable experiences.</h3>
 
-<p>currently living in hyderabad, india, learning and building useful tools (it's currently 68.41°F here).</p>
+<p>currently living in hyderabad, india, learning and building useful tools (it's currently 64.81°F here).</p>
 
-<p>i have remix.run, advanced react, rust and three.js on my bucket list.</p>
+<p>i have three.js, rust and tauri.app on my bucket list.</p>
 
 ### i am working on:
+- automating tool for generating reddit posts into shorts
+- unnamed job scheduling system with auto scalability/orchestration
 - kindle clippings sync - a cross-platform app to sync kindle clippings with notion
 
 ### every (once in a while), i write some blog posts at:
@@ -36,6 +38,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-people with goals succeed because they know where they're going
+you can do it
 
-<p align="center"><sub><em>last updated: january 6, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: january 7, 2023. updates daily.</em></sub></p>
