@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">a guy who builds highly resourceful, performant and scalable experiences.</h3>
 
-<p>currently living in hyderabad, india, learning and building useful tools (it's currently 64.81°F here).</p>
+<p>currently living in hyderabad, india, learning and building useful tools (it's currently 55.81°F here).</p>
 
 <p>i have three.js, rust and tauri.app on my bucket list.</p>
 
@@ -38,6 +38,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you can do it
+everything has cracks - that's how the light gets in
 
-<p align="center"><sub><em>last updated: january 7, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: january 8, 2023. updates daily.</em></sub></p>
