@@ -38,6 +38,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-everything has cracks - that's how the light gets in
+success is the progressive realization of a worthy goal
 
-<p align="center"><sub><em>last updated: january 8, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: january 9, 2023. updates daily.</em></sub></p>
