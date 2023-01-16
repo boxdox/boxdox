@@ -38,6 +38,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-we are all works in progress
+everything has cracks - that's how the light gets in
 
-<p align="center"><sub><em>last updated: january 15, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: january 16, 2023. updates daily.</em></sub></p>
