@@ -38,6 +38,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you're a smart cookie
+you know more than you knew yesterday
 
-<p align="center"><sub><em>last updated: january 21, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: january 22, 2023. updates daily.</em></sub></p>
