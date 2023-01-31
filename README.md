@@ -38,6 +38,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-we are all works in progress
+the past does not equal the future
 
-<p align="center"><sub><em>last updated: january 30, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: january 31, 2023. updates daily.</em></sub></p>
