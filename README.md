@@ -38,6 +38,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-the opposite of courage in our society is not cowardice... it is conformity
+we are all works in progress
 
-<p align="center"><sub><em>last updated: february 12, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: february 13, 2023. updates daily.</em></sub></p>
