@@ -38,6 +38,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you can do it
+if everything was easy you'd be bored
 
-<p align="center"><sub><em>last updated: february 17, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: february 18, 2023. updates daily.</em></sub></p>
