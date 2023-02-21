@@ -38,6 +38,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-we are all works in progress
+small progress is still progress
 
-<p align="center"><sub><em>last updated: february 20, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: february 21, 2023. updates daily.</em></sub></p>
