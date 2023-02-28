@@ -38,6 +38,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you're doing a great job
+it'll feel magical when it's working
 
-<p align="center"><sub><em>last updated: february 27, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: february 28, 2023. updates daily.</em></sub></p>
