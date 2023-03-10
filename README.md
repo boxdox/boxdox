@@ -38,6 +38,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-your mind is full of brilliant ideas
+it's what you practice in private that you will be rewarded for in public
 
-<p align="center"><sub><em>last updated: march 9, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: march 10, 2023. updates daily.</em></sub></p>
