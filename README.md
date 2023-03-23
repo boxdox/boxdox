@@ -38,6 +38,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-starting is the most difficult step - but you can do it
+it's not a mistake, it's a learning opportunity
 
-<p align="center"><sub><em>last updated: march 22, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: march 23, 2023. updates daily.</em></sub></p>
