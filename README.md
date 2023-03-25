@@ -38,6 +38,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-the past does not equal the future
+you're resourceful and clever
 
-<p align="center"><sub><em>last updated: march 24, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: march 25, 2023. updates daily.</em></sub></p>
