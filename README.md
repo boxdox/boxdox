@@ -38,6 +38,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you are worthy and deserving of respect
+it's what you practice in private that you will be rewarded for in public
 
-<p align="center"><sub><em>last updated: march 27, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: march 28, 2023. updates daily.</em></sub></p>
