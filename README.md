@@ -38,6 +38,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you'll figure it out
+you know more than you knew yesterday
 
-<p align="center"><sub><em>last updated: march 30, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: march 31, 2023. updates daily.</em></sub></p>
