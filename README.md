@@ -38,6 +38,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-if everything was easy you'd be bored
+failure is just another way to learn how to do something right
 
-<p align="center"><sub><em>last updated: april 3, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: april 4, 2023. updates daily.</em></sub></p>
