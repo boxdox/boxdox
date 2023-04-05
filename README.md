@@ -38,6 +38,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-failure is just another way to learn how to do something right
+i believe in you
 
-<p align="center"><sub><em>last updated: april 4, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: april 5, 2023. updates daily.</em></sub></p>
