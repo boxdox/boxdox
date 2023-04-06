@@ -38,6 +38,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-i believe in you
+struggling is part of learning
 
-<p align="center"><sub><em>last updated: april 5, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: april 6, 2023. updates daily.</em></sub></p>
