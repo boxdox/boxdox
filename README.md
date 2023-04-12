@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">a guy who builds highly resourceful, performant and scalable experiences.</h3>
 
-<p>currently living in hyderabad, india, learning and building useful tools (it's currently 81.01°F here).</p>
+<p>currently living in hyderabad, india, learning and building useful tools (it's currently 85.98°F here).</p>
 
 <p>i have three.js, rust and tauri.app on my bucket list.</p>
 
@@ -38,6 +38,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-i know you'll sort it out
+the past does not equal the future
 
-<p align="center"><sub><em>last updated: april 11, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: april 12, 2023. updates daily.</em></sub></p>
