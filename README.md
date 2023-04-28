@@ -38,6 +38,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you are worthy and deserving of respect
+you're a smart cookie
 
-<p align="center"><sub><em>last updated: april 27, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: april 28, 2023. updates daily.</em></sub></p>
