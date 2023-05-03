@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">a guy who builds highly resourceful, performant and scalable experiences.</h3>
 
-<p>currently living in hyderabad, india, learning and building useful tools (it's currently 75.61°F here).</p>
+<p>currently living in hyderabad, india, learning and building useful tools (it's currently 74.71°F here).</p>
 
 <p>i have three.js, rust and tauri.app on my bucket list.</p>
 
@@ -38,6 +38,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-sucking at something is the first step towards being good at something
+if everything was easy you'd be bored
 
-<p align="center"><sub><em>last updated: may 2, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: may 3, 2023. updates daily.</em></sub></p>
