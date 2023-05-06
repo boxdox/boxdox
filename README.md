@@ -38,6 +38,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-i know you'll sort it out
+it'll feel magical when it's working
 
-<p align="center"><sub><em>last updated: may 5, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: may 6, 2023. updates daily.</em></sub></p>
