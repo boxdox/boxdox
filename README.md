@@ -38,6 +38,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-it'll feel magical when it's working
+struggling is part of learning
 
-<p align="center"><sub><em>last updated: may 6, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: may 7, 2023. updates daily.</em></sub></p>
