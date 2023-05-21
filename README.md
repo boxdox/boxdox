@@ -38,6 +38,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-don't worry if you find flaws in your past creations, it's because you've evolved
+i'm rooting for you
 
-<p align="center"><sub><em>last updated: may 20, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: may 21, 2023. updates daily.</em></sub></p>
