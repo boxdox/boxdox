@@ -38,6 +38,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-the past does not equal the future
+mistakes don't make you less capable
 
-<p align="center"><sub><em>last updated: may 26, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: may 27, 2023. updates daily.</em></sub></p>
