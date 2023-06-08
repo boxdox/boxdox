@@ -38,6 +38,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-it's not a mistake, it's a learning opportunity
+you are worthy and deserving of respect
 
-<p align="center"><sub><em>last updated: june 7, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: june 8, 2023. updates daily.</em></sub></p>
