@@ -40,4 +40,4 @@
 ### now since you made it this far, here's an affirmation of the day:
 you are worthy and deserving of respect
 
-<p align="center"><sub><em>last updated: june 8, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: june 9, 2023. updates daily.</em></sub></p>
