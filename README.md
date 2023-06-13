@@ -38,6 +38,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-whenever we're afraid, it's because we don't know enough. if we understood enough, we would never be afraid
+you are a capable human
 
-<p align="center"><sub><em>last updated: june 12, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: june 13, 2023. updates daily.</em></sub></p>
