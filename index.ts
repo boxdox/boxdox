@@ -35,10 +35,6 @@ ${projectsList}
 <img src="https://github-readme-stats.vercel.app/api?username=boxdox&show_icons=true&count_private=true&theme=dracula" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=boxdox&color=ff6e96&style=flat-square&label=PROFILE+VIEWS">
-</p>
-
 ### now since you made it this far, here's an affirmation of the day:
 ${affirmation.toLowerCase()}
 
