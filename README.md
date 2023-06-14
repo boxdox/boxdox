@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">a guy who builds highly resourceful, performant and scalable experiences.</h3>
 
-<p>currently living in hyderabad, india, learning and building useful tools (it's currently 82.81°F here).</p>
+<p>currently living in hyderabad, india, learning and building useful tools (it's currently 87.31°F here).</p>
 
 <p>i have three.js, rust and tauri.app on my bucket list.</p>
 
@@ -33,11 +33,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=boxdox&show_icons=true&count_private=true&theme=dracula" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=boxdox&color=ff6e96&style=flat-square&label=PROFILE+VIEWS">
-</p>
-
 ### now since you made it this far, here's an affirmation of the day:
-don't worry if you find flaws in your past creations, it's because you've evolved
+it's what you practice in private that you will be rewarded for in public
 
 <p align="center"><sub><em>last updated: june 14, 2023. updates daily.</em></sub></p>
