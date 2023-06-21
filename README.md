@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-it is not a sprint, it is a marathon. one step at a time
+nothing is impossible. the word itself says 'i'm possible!'
 
-<p align="center"><sub><em>last updated: june 20, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: june 21, 2023. updates daily.</em></sub></p>
