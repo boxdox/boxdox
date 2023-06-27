@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-it'll feel magical when it's working
+you know more than you think
 
-<p align="center"><sub><em>last updated: june 26, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: june 27, 2023. updates daily.</em></sub></p>
