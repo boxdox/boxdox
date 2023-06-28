@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you know more than you think
+the past does not equal the future
 
-<p align="center"><sub><em>last updated: june 27, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: june 28, 2023. updates daily.</em></sub></p>
