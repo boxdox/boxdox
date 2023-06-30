@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you got this
+the past does not equal the future
 
-<p align="center"><sub><em>last updated: june 29, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: june 30, 2023. updates daily.</em></sub></p>
