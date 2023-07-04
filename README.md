@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-your life is about to be incredible
+10x engineers are a myth
 
-<p align="center"><sub><em>last updated: july 3, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: july 4, 2023. updates daily.</em></sub></p>
