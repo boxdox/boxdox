@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-don't worry if you find flaws in your past creations, it's because you've evolved
+your life is about to be incredible
 
-<p align="center"><sub><em>last updated: july 7, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: july 8, 2023. updates daily.</em></sub></p>
