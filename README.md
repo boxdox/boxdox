@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you are learning valuable lessons from yourself every day
+you're a smart cookie
 
-<p align="center"><sub><em>last updated: july 9, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: july 10, 2023. updates daily.</em></sub></p>
