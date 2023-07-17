@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-your life is already a miracle of chance waiting for you to shape its destiny
+i'm rooting for you
 
-<p align="center"><sub><em>last updated: july 16, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: july 17, 2023. updates daily.</em></sub></p>
