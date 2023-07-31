@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-mistakes don't make you less capable
+you'll figure it out
 
-<p align="center"><sub><em>last updated: july 30, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: july 31, 2023. updates daily.</em></sub></p>
