@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you'll figure it out
+struggling means you're learning
 
-<p align="center"><sub><em>last updated: july 31, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: august 1, 2023. updates daily.</em></sub></p>
