@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you're an inspiration
+sucking at something is the first step towards being good at something
 
-<p align="center"><sub><em>last updated: august 2, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: august 3, 2023. updates daily.</em></sub></p>
