@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-your life is already a miracle of chance waiting for you to shape its destiny
+all you need is the plan, the roadmap, and the courage to press on to your destination
 
-<p align="center"><sub><em>last updated: august 5, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: august 6, 2023. updates daily.</em></sub></p>
