@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-the path to success is to take massive, determined action
+nothing is impossible. the word itself says 'i'm possible!'
 
-<p align="center"><sub><em>last updated: august 7, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: august 8, 2023. updates daily.</em></sub></p>
