@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-people with goals succeed because they know where they're going
+everything has cracks - that's how the light gets in
 
-<p align="center"><sub><em>last updated: august 11, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: august 12, 2023. updates daily.</em></sub></p>
