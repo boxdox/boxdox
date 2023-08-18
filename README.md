@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you're an inspiration
+your life is about to be incredible
 
-<p align="center"><sub><em>last updated: august 17, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: august 18, 2023. updates daily.</em></sub></p>
