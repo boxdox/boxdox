@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-i give myself permission to do what is right for me
+if everything was easy you'd be bored
 
-<p align="center"><sub><em>last updated: august 21, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: august 22, 2023. updates daily.</em></sub></p>
