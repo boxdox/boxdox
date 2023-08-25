@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-everything has cracks - that's how the light gets in
+it is not a sprint, it is a marathon. one step at a time
 
-<p align="center"><sub><em>last updated: august 24, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: august 25, 2023. updates daily.</em></sub></p>
