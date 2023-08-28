@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you are a capable human
+you're an inspiration
 
-<p align="center"><sub><em>last updated: august 27, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: august 28, 2023. updates daily.</em></sub></p>
