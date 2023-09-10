@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-people with goals succeed because they know where they're going
+you are learning valuable lessons from yourself every day
 
-<p align="center"><sub><em>last updated: september 9, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: september 10, 2023. updates daily.</em></sub></p>
