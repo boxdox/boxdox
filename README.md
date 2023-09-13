@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-it's not a mistake, it's a learning opportunity
+all you need is the plan, the roadmap, and the courage to press on to your destination
 
-<p align="center"><sub><em>last updated: september 12, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: september 13, 2023. updates daily.</em></sub></p>
