@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-i know you'll sort it out
+i'm rooting for you
 
-<p align="center"><sub><em>last updated: september 14, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: september 15, 2023. updates daily.</em></sub></p>
