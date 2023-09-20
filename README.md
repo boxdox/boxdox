@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-it's not a mistake, it's a learning opportunity
+failure is just another way to learn how to do something right
 
-<p align="center"><sub><em>last updated: september 19, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: september 20, 2023. updates daily.</em></sub></p>
