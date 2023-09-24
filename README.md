@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you're resourceful and clever
+all you need is the plan, the roadmap, and the courage to press on to your destination
 
-<p align="center"><sub><em>last updated: september 23, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: september 24, 2023. updates daily.</em></sub></p>
