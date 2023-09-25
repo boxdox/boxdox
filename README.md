@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-all you need is the plan, the roadmap, and the courage to press on to your destination
+the opposite of courage in our society is not cowardice... it is conformity
 
-<p align="center"><sub><em>last updated: september 24, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: september 25, 2023. updates daily.</em></sub></p>
