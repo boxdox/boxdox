@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you got this
+the path to success is to take massive, determined action
 
-<p align="center"><sub><em>last updated: september 27, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: september 28, 2023. updates daily.</em></sub></p>
