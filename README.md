@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you can do it
+success is the progressive realization of a worthy goal
 
-<p align="center"><sub><em>last updated: october 4, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: october 5, 2023. updates daily.</em></sub></p>
