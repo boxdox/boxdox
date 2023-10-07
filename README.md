@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-sucking at something is the first step towards being good at something
+struggling means you're learning
 
-<p align="center"><sub><em>last updated: october 6, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: october 7, 2023. updates daily.</em></sub></p>
