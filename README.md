@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-we are all works in progress
+it's what you practice in private that you will be rewarded for in public
 
-<p align="center"><sub><em>last updated: october 8, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: october 9, 2023. updates daily.</em></sub></p>
