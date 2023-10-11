@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you're doing a great job
+struggling means you're learning
 
-<p align="center"><sub><em>last updated: october 10, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: october 11, 2023. updates daily.</em></sub></p>
