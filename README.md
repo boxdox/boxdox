@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-the path to success is to take massive, determined action
+don't worry if you find flaws in your past creations, it's because you've evolved
 
-<p align="center"><sub><em>last updated: october 14, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: october 15, 2023. updates daily.</em></sub></p>
