@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-it is not a sprint, it is a marathon. one step at a time
+don't worry if you find flaws in your past creations, it's because you've evolved
 
-<p align="center"><sub><em>last updated: october 29, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: october 30, 2023. updates daily.</em></sub></p>
