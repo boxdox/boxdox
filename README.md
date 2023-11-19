@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-it's not a mistake, it's a learning opportunity
+it's what you practice in private that you will be rewarded for in public
 
-<p align="center"><sub><em>last updated: november 18, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: november 19, 2023. updates daily.</em></sub></p>
