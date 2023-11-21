@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you're a smart cookie
+the opposite of courage in our society is not cowardice... it is conformity
 
-<p align="center"><sub><em>last updated: november 20, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: november 21, 2023. updates daily.</em></sub></p>
