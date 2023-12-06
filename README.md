@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-mistakes don't make you less capable
+you're an inspiration
 
-<p align="center"><sub><em>last updated: december 5, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: december 6, 2023. updates daily.</em></sub></p>
