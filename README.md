@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you're an inspiration
+it's what you practice in private that you will be rewarded for in public
 
-<p align="center"><sub><em>last updated: december 6, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: december 7, 2023. updates daily.</em></sub></p>
