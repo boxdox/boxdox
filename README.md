@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">a guy who builds highly resourceful, performant and scalable experiences.</h3>
 
-<p>currently living in hyderabad, india, learning and building useful tools (it's currently 68.41°F here).</p>
+<p>currently living in hyderabad, india, learning and building useful tools (it's currently 63.01°F here).</p>
 
 <p>i have three.js, rust and tauri.app on my bucket list.</p>
 
@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-it's what you practice in private that you will be rewarded for in public
+i admire you for taking this on
 
-<p align="center"><sub><em>last updated: december 7, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: december 8, 2023. updates daily.</em></sub></p>
