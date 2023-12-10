@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-10x engineers are a myth
+you're a smart cookie
 
-<p align="center"><sub><em>last updated: december 9, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: december 10, 2023. updates daily.</em></sub></p>
