@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-struggling is part of learning
+failure is just another way to learn how to do something right
 
-<p align="center"><sub><em>last updated: december 14, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: december 15, 2023. updates daily.</em></sub></p>
