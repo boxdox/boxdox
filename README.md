@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-i know you'll sort it out
+you're a smart cookie
 
-<p align="center"><sub><em>last updated: december 21, 2023. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: december 22, 2023. updates daily.</em></sub></p>
