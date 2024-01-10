@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-struggling is part of learning
+you can do it
 
-<p align="center"><sub><em>last updated: january 9, 2024. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: january 10, 2024. updates daily.</em></sub></p>
