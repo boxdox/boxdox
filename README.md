@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-starting is the most difficult step - but you can do it
+it is not a sprint, it is a marathon. one step at a time
 
-<p align="center"><sub><em>last updated: january 14, 2024. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: january 15, 2024. updates daily.</em></sub></p>
