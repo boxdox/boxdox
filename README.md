@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-10x engineers are a myth
+we are all works in progress
 
-<p align="center"><sub><em>last updated: january 17, 2024. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: january 18, 2024. updates daily.</em></sub></p>
