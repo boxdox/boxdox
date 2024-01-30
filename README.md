@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-the opposite of courage in our society is not cowardice... it is conformity
+the past does not equal the future
 
-<p align="center"><sub><em>last updated: january 29, 2024. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: january 30, 2024. updates daily.</em></sub></p>
