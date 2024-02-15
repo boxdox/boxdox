@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-the past does not equal the future
+nothing is impossible. the word itself says 'i'm possible!'
 
-<p align="center"><sub><em>last updated: february 14, 2024. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: february 15, 2024. updates daily.</em></sub></p>
