@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you know more than you knew yesterday
+you are learning valuable lessons from yourself every day
 
-<p align="center"><sub><em>last updated: february 17, 2024. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: february 18, 2024. updates daily.</em></sub></p>
