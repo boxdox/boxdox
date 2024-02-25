@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-if everything was easy you'd be bored
+you are a capable human
 
-<p align="center"><sub><em>last updated: february 24, 2024. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: february 25, 2024. updates daily.</em></sub></p>
