@@ -1,4 +1,5 @@
-export const WEATHER_API = `https://api.openweathermap.org/data/2.5/weather?id=1269843&appid=${
+const weatherCityId = `1277333`
+export const WEATHER_API = `https://api.openweathermap.org/data/2.5/weather?id=${weatherCityId}&appid=${
   Deno.env.toObject()['WeatherAPIKey']
 }`
 

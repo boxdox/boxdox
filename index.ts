@@ -5,7 +5,7 @@ const readme = `
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">a guy who builds highly resourceful, performant and scalable experiences.</h3>
 
-<p>currently living in hyderabad, india, learning and building useful tools (it's currently ${temperature}°F here).</p>
+<p>currently living in bengaluru, india, learning and building useful tools (it's currently ${temperature}°F here).</p>
 
 <p>i have ${learningList} on my bucket list.</p>
 
