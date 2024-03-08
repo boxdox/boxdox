@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-if everything was easy you'd be bored
+people with goals succeed because they know where they're going
 
-<p align="center"><sub><em>last updated: march 7, 2024. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: march 8, 2024. updates daily.</em></sub></p>
