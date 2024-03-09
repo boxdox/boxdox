@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-people with goals succeed because they know where they're going
+i know you'll sort it out
 
-<p align="center"><sub><em>last updated: march 8, 2024. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: march 9, 2024. updates daily.</em></sub></p>
