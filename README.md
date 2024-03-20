@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-i know you'll sort it out
+whenever we're afraid, it's because we don't know enough. if we understood enough, we would never be afraid
 
-<p align="center"><sub><em>last updated: march 19, 2024. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: march 20, 2024. updates daily.</em></sub></p>
