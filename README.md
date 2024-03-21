@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">a guy who builds highly resourceful, performant and scalable experiences.</h3>
 
-<p>currently living in bengaluru, india, learning and building useful tools (it's currently 73.04°F here).</p>
+<p>currently living in bengaluru, india, learning and building useful tools (it's currently 71.24°F here).</p>
 
 <p>i have three.js, rust and tauri.app on my bucket list.</p>
 
@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-whenever we're afraid, it's because we don't know enough. if we understood enough, we would never be afraid
+the opposite of courage in our society is not cowardice... it is conformity
 
-<p align="center"><sub><em>last updated: march 20, 2024. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: march 21, 2024. updates daily.</em></sub></p>
