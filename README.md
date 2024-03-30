@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-we are all works in progress
+starting is the most difficult step - but you can do it
 
-<p align="center"><sub><em>last updated: march 29, 2024. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: march 30, 2024. updates daily.</em></sub></p>
