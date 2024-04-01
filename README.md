@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-don't forget to enjoy the journey
+sucking at something is the first step towards being good at something
 
-<p align="center"><sub><em>last updated: march 31, 2024. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: april 1, 2024. updates daily.</em></sub></p>
