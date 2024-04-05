@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-i give myself permission to do what is right for me
+struggling is part of learning
 
-<p align="center"><sub><em>last updated: april 4, 2024. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: april 5, 2024. updates daily.</em></sub></p>
