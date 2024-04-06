@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-struggling is part of learning
+your life is already a miracle of chance waiting for you to shape its destiny
 
-<p align="center"><sub><em>last updated: april 5, 2024. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: april 6, 2024. updates daily.</em></sub></p>
