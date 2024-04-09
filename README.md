@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-mistakes don't make you less capable
+10x engineers are a myth
 
-<p align="center"><sub><em>last updated: april 8, 2024. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: april 9, 2024. updates daily.</em></sub></p>
