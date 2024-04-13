@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-everything has cracks - that's how the light gets in
+starting is the most difficult step - but you can do it
 
-<p align="center"><sub><em>last updated: april 12, 2024. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: april 13, 2024. updates daily.</em></sub></p>
