@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you are worthy and deserving of respect
+i give myself permission to do what is right for me
 
-<p align="center"><sub><em>last updated: may 4, 2024. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: may 5, 2024. updates daily.</em></sub></p>
