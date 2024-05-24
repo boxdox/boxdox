@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you are a capable human
+you can do it
 
-<p align="center"><sub><em>last updated: may 23, 2024. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: may 24, 2024. updates daily.</em></sub></p>
