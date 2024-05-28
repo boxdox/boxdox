@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-nothing is impossible. the word itself says 'i'm possible!'
+struggling is part of learning
 
-<p align="center"><sub><em>last updated: may 27, 2024. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: may 28, 2024. updates daily.</em></sub></p>
