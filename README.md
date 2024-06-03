@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you are worthy and deserving of respect
+you know more than you think
 
-<p align="center"><sub><em>last updated: june 2, 2024. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: june 3, 2024. updates daily.</em></sub></p>
