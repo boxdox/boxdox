@@ -36,4 +36,4 @@
 ### now since you made it this far, here's an affirmation of the day:
 your life is already a miracle of chance waiting for you to shape its destiny
 
-<p align="center"><sub><em>last updated: june 30, 2024. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: july 1, 2024. updates daily.</em></sub></p>
