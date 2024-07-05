@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-everything has cracks - that's how the light gets in
+you are learning valuable lessons from yourself every day
 
-<p align="center"><sub><em>last updated: july 4, 2024. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: july 5, 2024. updates daily.</em></sub></p>
