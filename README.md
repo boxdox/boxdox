@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-all you need is the plan, the roadmap, and the courage to press on to your destination
+we are all works in progress
 
-<p align="center"><sub><em>last updated: september 3, 2024. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: september 4, 2024. updates daily.</em></sub></p>
