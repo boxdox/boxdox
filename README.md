@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-it is not a sprint, it is a marathon. one step at a time
+the opposite of courage in our society is not cowardice... it is conformity
 
-<p align="center"><sub><em>last updated: september 9, 2024. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: september 10, 2024. updates daily.</em></sub></p>
