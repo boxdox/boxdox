@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-if everything was easy you'd be bored
+you'll figure it out
 
-<p align="center"><sub><em>last updated: september 21, 2024. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: september 22, 2024. updates daily.</em></sub></p>
