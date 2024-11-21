@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you're doing a great job
+you're a smart cookie
 
-<p align="center"><sub><em>last updated: november 20, 2024. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: november 21, 2024. updates daily.</em></sub></p>
