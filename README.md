@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">a guy who builds highly resourceful, performant and scalable experiences.</h3>
 
-<p>currently living in bengaluru, india, learning and building useful tools (it's currently 70.79°F here).</p>
+<p>currently living in bengaluru, india, learning and building useful tools (it's currently 92.55°F here).</p>
 
-<p>i have three.js, rust and tauri.app on my bucket list.</p>
+<p>i have webgl shaders, vulkan and wasm on my bucket list.</p>
 
 ### i am working on:
 - automating tool for generating reddit posts into shorts
+- monorepo publishing workflow to co-locate related scoped packages
 - unnamed job scheduling system with auto scalability/orchestration
-- kindle clippings sync - a cross-platform app to sync kindle clippings with notion
 
 ### every (once in a while), i write some blog posts at:
 - [boxdox.dev/blog](https://boxdox.dev/blog/)
@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-it is not a sprint, it is a marathon. one step at a time
+you'll figure it out
 
-<p align="center"><sub><em>last updated: april 1, 2025. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: april 7, 2025. updates daily.</em></sub></p>
