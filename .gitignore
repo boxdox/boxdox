@@ -1,2 +1,4 @@
 # Don't commit the vscode directory.
 .vscode
+node_modules
+dist

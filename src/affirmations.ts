@@ -51,4 +51,4 @@ const affirmations = [
 ]
 
 export const getRandomAffirmation = (): string =>
-  affirmations[Math.floor(Math.random() * affirmations.length)]
+  affirmations[Math.floor(Math.random() * affirmations.length)]!

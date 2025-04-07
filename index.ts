@@ -1,16 +1,21 @@
-import { temperature, affirmation, today, learningList, projectsList } from './src/fetchStuff.ts'
+import { today } from './src/helpers.ts'
+import { getCurrentTemperature } from './src/weather.ts'
+import { fetchFromGithub } from './src/github.ts'
+import { getRandomAffirmation } from './src/affirmations.ts'
+
+const { learning, projects } = await fetchFromGithub()
 
 // Begin generating the readme
 const readme = `
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">a guy who builds highly resourceful, performant and scalable experiences.</h3>
 
-<p>currently living in bengaluru, india, learning and building useful tools (it's currently ${temperature}°F here).</p>
+<p>currently living in bengaluru, india, learning and building useful tools (it's currently ${await getCurrentTemperature()}°F here).</p>
 
-<p>i have ${learningList} on my bucket list.</p>
+<p>i have ${learning} on my bucket list.</p>
 
 ### i am working on:
-${projectsList}
+${projects}
 
 ### every (once in a while), i write some blog posts at:
 - [boxdox.dev/blog](https://boxdox.dev/blog/)
@@ -36,9 +41,9 @@ ${projectsList}
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-${affirmation.toLowerCase()}
+${getRandomAffirmation().toLowerCase()}
 
-<p align="center"><sub><em>last updated: ${today}. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: ${today()}. updates daily.</em></sub></p>
 `
 
-Deno.writeTextFile('README.md', readme.trim())
+await Bun.write('README.md', readme.trim())

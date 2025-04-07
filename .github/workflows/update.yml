@@ -2,7 +2,7 @@ name: Update Readme
 
 on:
   schedule:
-    - cron: "0 2 * * *"
+    - cron: '0 2 * * *'
   workflow_dispatch:
 
 jobs:
@@ -10,28 +10,26 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout the repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
-      - name: Setup Deno
-        run: |
-          sudo apt install -y unzip curl
-          curl -fsSL https://deno.land/x/install/install.sh | sudo DENO_INSTALL=/usr/local sh
+      - uses: oven-sh/setup-bun@v2
 
       - name: Get current date for commit message
-        id: date
-        run: echo "{date}={$(date +'%Y-%m-%d')}" >> $GITHUB_OUTPUT
+        run: echo "DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
 
       - name: Generate new Readme
         env:
           WeatherAPIKey: ${{ secrets.WEATHER_API }}
           GithubToken: ${{ secrets.GITHUB_TOKEN }}
-        run: deno run --allow-net --allow-env --allow-write index.ts
+        run: bun run index.ts
 
       - name: Commit Files
+        env:
+          DATE: ${{ env.DATE }}
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git commit -m "bot update: ${{ steps.date.outputs.date }}" -a
+          git commit -m "bot update: ${{ env.DATE }}" -a
 
       - name: Push changes back to master
         uses: ad-m/github-push-action@master
