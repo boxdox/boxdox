@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">a guy who builds highly resourceful, performant and scalable experiences.</h3>
 
-<p>currently living in bengaluru, india, learning and building useful tools (it's currently 75.11°F here).</p>
+<p>currently living in bengaluru, india, learning and building useful tools (it's currently 82.58°F here).</p>
 
 <p>i have webgl shaders, vulkan and wasm on my bucket list.</p>
 
@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-starting is the most difficult step - but you can do it
+nothing is impossible. the word itself says 'i'm possible!'
 
-<p align="center"><sub><em>last updated: april 19, 2025. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: april 20, 2025. updates daily.</em></sub></p>
