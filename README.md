@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">a guy who builds highly resourceful, performant and scalable experiences.</h3>
 
-<p>currently living in bengaluru, india, learning and building useful tools (it's currently 78.87°F here).</p>
+<p>currently living in bengaluru, india, learning and building useful tools (it's currently 77.13°F here).</p>
 
 <p>i have webgl shaders, vulkan and wasm on my bucket list.</p>
 
@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-struggling is part of learning
+whenever we're afraid, it's because we don't know enough. if we understood enough, we would never be afraid
 
-<p align="center"><sub><em>last updated: april 23, 2025. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: april 24, 2025. updates daily.</em></sub></p>
