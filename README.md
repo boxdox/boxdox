@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-the opposite of courage in our society is not cowardice... it is conformity
+whenever we're afraid, it's because we don't know enough. if we understood enough, we would never be afraid
 
-<p align="center"><sub><em>last updated: april 25, 2025. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: april 26, 2025. updates daily.</em></sub></p>
