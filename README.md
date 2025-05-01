@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">a guy who builds highly resourceful, performant and scalable experiences.</h3>
 
-<p>currently living in bengaluru, india, learning and building useful tools (it's currently 87.60°F here).</p>
+<p>currently living in bengaluru, india, learning and building useful tools (it's currently 78.64°F here).</p>
 
 <p>i have webgl shaders, vulkan and wasm on my bucket list.</p>
 
@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you're a smart cookie
+everything has cracks - that's how the light gets in
 
-<p align="center"><sub><em>last updated: april 30, 2025. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: may 1, 2025. updates daily.</em></sub></p>
