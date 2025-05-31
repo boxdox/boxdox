@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">a guy who builds highly resourceful, performant and scalable experiences.</h3>
 
-<p>currently living in bengaluru, india, learning and building useful tools (it's currently 71.37°F here).</p>
+<p>currently living in bengaluru, india, learning and building useful tools (it's currently 73.04°F here).</p>
 
 <p>i have webgl shaders, vulkan and wasm on my bucket list.</p>
 
@@ -36,4 +36,4 @@
 ### now since you made it this far, here's an affirmation of the day:
 the path to success is to take massive, determined action
 
-<p align="center"><sub><em>last updated: may 30, 2025. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: may 31, 2025. updates daily.</em></sub></p>
