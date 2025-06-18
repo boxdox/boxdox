@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">a guy who builds highly resourceful, performant and scalable experiences.</h3>
 
-<p>currently living in bengaluru, india, learning and building useful tools (it's currently 71.55°F here).</p>
+<p>currently living in bengaluru, india, learning and building useful tools (it's currently 80.89°F here).</p>
 
-<p>i have webgl shaders, vulkan and wasm on my bucket list.</p>
+<p>i have tanstack libraries, golang and vulkan on my bucket list.</p>
 
 ### i am working on:
+- a self-hosted e-learning video streaming app (no vibe coding)
 - automating tool for generating reddit posts into shorts
-- monorepo publishing workflow to co-locate related scoped packages
 - unnamed job scheduling system with auto scalability/orchestration
 
 ### every (once in a while), i write some blog posts at:
@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you are learning valuable lessons from yourself every day
+it's what you practice in private that you will be rewarded for in public
 
 <p align="center"><sub><em>last updated: june 18, 2025. updates daily.</em></sub></p>
