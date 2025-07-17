@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-success is the progressive realization of a worthy goal
+you know more than you knew yesterday
 
-<p align="center"><sub><em>last updated: july 16, 2025. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: july 17, 2025. updates daily.</em></sub></p>
