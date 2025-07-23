@@ -3,7 +3,12 @@ import { getCurrentTemperature } from './src/weather.ts'
 import { fetchFromGithub } from './src/github.ts'
 import { getRandomAffirmation } from './src/affirmations.ts'
 
-const { learning, projects } = await fetchFromGithub()
+const githubResponse = await fetchFromGithub()
+
+if (!githubResponse) {
+  console.error('script failed')
+  process.exit(1)
+}
 
 // Begin generating the readme
 const readme = `
@@ -12,10 +17,10 @@ const readme = `
 
 <p>currently living in bengaluru, india, learning and building useful tools (it's currently ${await getCurrentTemperature()}°F here).</p>
 
-<p>i have ${learning} on my bucket list.</p>
+<p>i have ${githubResponse.learning} on my bucket list.</p>
 
 ### i am working on:
-${projects}
+${githubResponse.projects}
 
 ### every (once in a while), i write some blog posts at:
 - [boxdox.dev/blog](https://boxdox.dev/blog/)

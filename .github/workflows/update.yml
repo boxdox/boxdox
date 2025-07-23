@@ -20,7 +20,7 @@ jobs:
       - name: Generate new Readme
         env:
           WeatherAPIKey: ${{ secrets.WEATHER_API }}
-          GithubToken: ${{ secrets.GITHUB_TOKEN }}
+          GithubToken: ${{ secrets.GIST_SECRET }}
         run: bun run index.ts
 
       - name: Commit Files

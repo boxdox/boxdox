@@ -3,8 +3,11 @@ export const fetcher = async <T = unknown>(
   headers: RequestInit = {}
 ): Promise<T> => {
   try {
-    const req = await fetch(url, headers)
-    const data = await req.json()
+    const response = await fetch(url, headers)
+    if (!response) {
+      throw new Error('no response from endpoint')
+    }
+    const data = await response.json()
     return data as T
   } catch (error) {
     console.error(error)
