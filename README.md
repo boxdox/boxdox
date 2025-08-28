@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-10x engineers are a myth
+people with goals succeed because they know where they're going
 
-<p align="center"><sub><em>last updated: august 27, 2025. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: august 28, 2025. updates daily.</em></sub></p>
