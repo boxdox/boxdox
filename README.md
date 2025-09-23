@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">a guy who builds highly resourceful, performant and scalable experiences.</h3>
 
-<p>currently living in bengaluru, india, learning and building useful tools (it's currently 71.15°F here).</p>
+<p>currently living in bengaluru, india, learning and building useful tools (it's currently 70.11°F here).</p>
 
 <p>i have tanstack libraries, golang and vulkan on my bucket list.</p>
 
@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-the past does not equal the future
+you're an inspiration
 
-<p align="center"><sub><em>last updated: september 22, 2025. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: september 23, 2025. updates daily.</em></sub></p>
