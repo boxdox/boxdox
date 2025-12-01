@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">a guy who builds highly resourceful, performant and scalable experiences.</h3>
 
-<p>currently living in bengaluru, india, learning and building useful tools (it's currently 65.79°F here).</p>
+<p>currently living in bengaluru, india, learning and building useful tools (it's currently 67.75°F here).</p>
 
 <p>i have tanstack libraries, golang and vulkan on my bucket list.</p>
 
@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-success is the progressive realization of a worthy goal
+whenever we're afraid, it's because we don't know enough. if we understood enough, we would never be afraid
 
-<p align="center"><sub><em>last updated: november 30, 2025. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: december 1, 2025. updates daily.</em></sub></p>
