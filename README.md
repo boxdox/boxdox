@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">a guy who builds highly resourceful, performant and scalable experiences.</h3>
 
-<p>currently living in bengaluru, india, learning and building useful tools (it's currently 77.05°F here).</p>
+<p>currently living in bengaluru, india, learning and building useful tools (it's currently 77.20°F here).</p>
 
 <p>i have tanstack libraries, golang and vulkan on my bucket list.</p>
 
@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-your life is already a miracle of chance waiting for you to shape its destiny
+i believe in you
 
-<p align="center"><sub><em>last updated: march 12, 2026. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: march 13, 2026. updates daily.</em></sub></p>
