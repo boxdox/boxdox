@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">a guy who builds highly resourceful, performant and scalable experiences.</h3>
 
-<p>currently living in bengaluru, india, learning and building useful tools (it's currently 81.88°F here).</p>
+<p>currently living in bengaluru, india, learning and building useful tools (it's currently 79.27°F here).</p>
 
 <p>i have tanstack libraries, golang and vulkan on my bucket list.</p>
 
@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-starting is the most difficult step - but you can do it
+don't worry if you find flaws in your past creations, it's because you've evolved
 
-<p align="center"><sub><em>last updated: march 23, 2026. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: march 24, 2026. updates daily.</em></sub></p>
