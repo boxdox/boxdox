@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you make a difference in the world by simply existing in it
+don't forget to enjoy the journey
 
-<p align="center"><sub><em>last updated: june 12, 2026. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: june 13, 2026. updates daily.</em></sub></p>
