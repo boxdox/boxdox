@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">a guy who builds highly resourceful, performant and scalable experiences.</h3>
 
-<p>currently living in bengaluru, india, learning and building useful tools (it's currently 80.08°F here).</p>
+<p>currently living in bengaluru, india, learning and building useful tools (it's currently 81.18°F here).</p>
 
 <p>i have tanstack libraries, golang and vulkan on my bucket list.</p>
 
@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-people with goals succeed because they know where they're going
+you are worthy and deserving of respect
 
-<p align="center"><sub><em>last updated: july 5, 2026. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: july 6, 2026. updates daily.</em></sub></p>
