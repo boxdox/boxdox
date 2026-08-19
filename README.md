@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-you're doing a great job
+don't worry if you find flaws in your past creations, it's because you've evolved
 
-<p align="center"><sub><em>last updated: august 18, 2026. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: august 19, 2026. updates daily.</em></sub></p>
