@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">a guy who builds highly resourceful, performant and scalable experiences.</h3>
 
-<p>currently living in bengaluru, india, learning and building useful tools (it's currently 81.77°F here).</p>
+<p>currently living in bengaluru, india, learning and building useful tools (it's currently 76.91°F here).</p>
 
 <p>i have tanstack libraries, golang and vulkan on my bucket list.</p>
 
@@ -34,6 +34,6 @@
 </p>
 
 ### now since you made it this far, here's an affirmation of the day:
-i give myself permission to do what is right for me
+people with goals succeed because they know where they're going
 
-<p align="center"><sub><em>last updated: november 14, 2026. updates daily.</em></sub></p>
+<p align="center"><sub><em>last updated: november 15, 2026. updates daily.</em></sub></p>
